@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                        𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝚋𝚘𝚝 𝚋𝚢 𝚌𝚑𝚊𝚖𝚒𝚍𝚞 𝚠𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -22,15 +22,15 @@ global.APIKeys = {
 global.owner = ['Your Number']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.ownername = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊'
+global.botname = '𝙲𝚑𝚡𝚖𝚒𝚢𝚊 𝙱𝙾𝚃'
+global.footer = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊©'
+global.ig = 'https://github.com/Memosachamiya'
+global.region = 'Sri Lanka, Western province'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'Chxmiyx Bot'
+global.author = '🫥 Chamiya'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
