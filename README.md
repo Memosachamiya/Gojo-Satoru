@@ -13,8 +13,8 @@
 
 </br>
 
-<a href="https://instagram.com/_cha._azzy"><img title="Instagram" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://instagram.com/meme_athal_official_"><img title="Page" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
+<a href="https://instagram.com/_cha._azzy"><img title="Instagram" /></a>  
+<a href="https://instagram.com/meme_athal_official_"><img title="Page" /></a>
 
 ---
 
