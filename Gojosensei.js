@@ -3312,8 +3312,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+                                    displayText: '𝙼𝙴𝙼𝙴 𝙰𝚃𝙷𝙰𝙻 😂',
+                                    url: `https://instagram.com/meme_athal_official_`
                                 }
                             }, {
                             	urlButton: {
@@ -3332,9 +3332,10 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
-                                    id: `${prefix}owner`
+                                    displayText: '🐋 Alive',
+                                    id: `${prefix}alive`
                                 }
+
                             }]
                         }
                     }
@@ -3372,29 +3373,29 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+                                    displayText: '𝙼𝙴𝙼𝙴 𝙰𝚃𝙷𝙰𝙻 😂',
+                                    url: `https://instagram.com/meme_athal_official_`
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: `${sc}`
+                                displayText: 'Private Acc 🍁',
+                                    url: `https://instagram.com/_cha._azzy`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'All Menu🎉',
+                                    displayText: 'All Menu 🐋',
                                     id: `${prefix}allmenu`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: 'List Menu⭐',
+                                    displayText: 'List Menu 🐋',
                                     id: `${prefix}command`
                                 }
-                                }, {
+                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner🐦',
-                                    id: `${prefix}owner`
-                                }
+                                    displayText: '🐋 Alive',
+                                    id: `${prefix}alive`
+                                }   
                             }]
                         }
                     }
@@ -3508,16 +3509,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"description": "Displays The List Of Anonymous Chat Features",
 										"rowId": `${prefix}anonymouschatmenu`
 									}
-								]
-							},
-							{
-								"title": "Credit",
-								"rows": [
-									{
-										"title": "Thanks To",
-										"description": "Displays The List Of Credit Of The Bot !!",
-										"rowId": `${prefix}tqtt`
-									}
+																	}
 								]
 							}
 						],
@@ -3763,7 +3755,7 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
+┃╚═══════✍︎ 𝙲𝙷𝙰𝙼𝙸𝚈𝙰 𝚋𝚘𝚝 ©
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3774,13 +3766,13 @@ case 'allmenu': {
                             hydratedFooterText: `${pushname}`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+                                    displayText: '𝙼𝙴𝙼𝙴 𝙰𝚃𝙷𝙰𝙻 😂',
+                                    url: `https://instagram.com/meme_athal_official_`
                                 }
                             }, {
                                 quickReplyButton: {
                                     displayText: '👤Owner👤',
-                                    id: `${prefix}owner`
+                                    id: `𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊 ®`
                                 }
                             }]
                         }
@@ -4169,16 +4161,12 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
 ┃╚═════════════✪
-┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "𝙼𝙴𝙼𝙴 𝙰𝚃𝙷𝙰𝙻 😂","url": `https://instagram.com/meme_athal_official_`}},{"urlButton": {"displayText": "Private Acc 🍁❤️","url": `https://instagram.com/_cha._azzy`}},{"quickReplyButton": {"displayText": "Alive ❤️","id": 'alive'}},{"quickReplyButton": {"displayText": "All menu 🫥","id": 'Menu'}}] )
 break
 case 'thanksto': case 'tqto': case 'tqtt':
 var unicorn = await getBuffer(picak+'Developer')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
-Thanks to Me ( NexusNw)
-Alien-Alfa (For helping me to deploy qr in replit and answered my every doubts regard this project)
-DGXeon ( 45% Credits goes to him ,in this script)
-And Again Me (King Nexus 🎉) 🐦 Who Helped Assemble This Sexy Script !!!`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
-break
+
             default:
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return reply(mess.owner)
