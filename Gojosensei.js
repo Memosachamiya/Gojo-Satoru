@@ -592,7 +592,7 @@ if (q.includes('--help')) return reply(examkosong)
      teksehmazeh += `*🐄Cow* : ${getSapi(m.sender)}\n`
      teksehmazeh += `*🐘Elephant* : ${getGajah(m.sender)}\n\n`
      teksehmazeh += `_*𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1*_`
-     await GojoMdNx.send5ButImg(from, `` + '' + teksehmazeh, `© ${footer}`, GojoMdNx, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}}])
+     await GojoMdNx.send5ButImg(from, `` + '' + teksehmazeh, `© ${footer}`, GojoMdNx, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}}])
   }
   break
         case 'userlimit': 
@@ -1762,8 +1762,8 @@ break
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `https://youtube.com/channel/MemeAthalOfficial`
+                                    displayText: 'Meme Athal Yt 😂',
+                                    url: `${myweb}`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1796,8 +1796,8 @@ break
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `https://youtube.com/channel/MemeAthalOfficial`
+                                    displayText: 'Meme Athal Yt 😂',
+                                    url: `${myweb}`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2203,7 +2203,7 @@ case 'webtonsearch': case 'webtoon':
 				{
 					"urlButton": {
 						"displayText": "Watch🎥",
-						"url": `https://youtube.com/channel/MemeAthalOfficial`
+						"url": `${myweb}`
 						}
 					}
 				]
@@ -2227,8 +2227,8 @@ case 'webtonsearch': case 'webtoon':
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "YouTube📍",
-						"url": `https://youtube.com/channel/MemeAthalOfficial`
+						"displayText": "Meme Athal Yt 😂",
+						"url": `${myweb}`
 						}
 					}
 				]
@@ -2251,8 +2251,8 @@ case 'webtonsearch': case 'webtoon':
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "YouTube📍",
-						"url": `https://youtube.com/channel/MemeAthalOfficial`
+						"displayText": "Meme Athal Yt 😂",
+						"url": `${myweb}`
 						}
 					}
 				]
@@ -3312,8 +3312,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `https://youtube.com/channel/MemeAthalOfficial`
+                                    displayText: 'Meme Athal Yt 😂',
+                                    url: `${myweb}`
                                 }
                             }, {
                             	urlButton: {
@@ -3372,8 +3372,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `https://youtube.com/channel/MemeAthalOfficial`
+                                    displayText: 'Meme Athal Yt 😂',
+                                    url: `${myweb}`
                                 }
                             }, {
                             	urlButton: {
@@ -3532,7 +3532,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub : https://github.com/nexusNw/Gojo-Satoru\n Dont Forget To Give Star\n\nYouTube : https://youtube.com/channel/MemeAthalOfficial\nDont Forget To Watch Tutorial`)
+                reply(`GitHub : https://github.com/nexusNw/Gojo-Satoru\n Dont Forget To Give Star\n\nYouTube : ${myweb}\nDont Forget To Watch Tutorial`)
             }
             break
 case 'allmenu': {
@@ -3763,7 +3763,7 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
+┃╚═══════✍︎𝙲𝙷𝚇𝙼𝙸𝚈𝚇
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3774,8 +3774,8 @@ case 'allmenu': {
                             hydratedFooterText: `𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `https://youtube.com/channel/MemeAthalOfficial`
+                                    displayText: 'Meme Athal Yt 😂',
+                                    url: `${myweb}`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3808,7 +3808,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'grupmenu': case 'groupmenu':
@@ -3837,7 +3837,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}checkvote
 ┃╠${prefix}delvote
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'rpgmenu':
@@ -3855,7 +3855,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}buy [option]
 ┃╠${prefix}sell [option]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'funmenu':
@@ -3908,7 +3908,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}math [mode]
 ┃╠ ${prefix}suitpvp [tag]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 
 case 'ownermenu':
@@ -3937,7 +3937,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}checkvote
 ┃╠${prefix}delvote
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'downloadmenu':
 var unicorn = await getBuffer(picak+'Downloader Menu')
@@ -3952,7 +3952,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}joox [query]
 ┃╠${prefix}soundcloud [url]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'searchmenu':
 var unicorn = await getBuffer(picak+'Search Menu')
@@ -3971,7 +3971,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}ringtone [query]
 ┃╠${prefix}webtoon [query]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'randommenu':
 var unicorn = await getBuffer(picak+'Random Menu')
@@ -3982,7 +3982,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}animequote (indo)
 ┃╠${prefix}couplepp
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'randomanimemenu':
 var unicorn = await getBuffer(picak+'Random Anime Menu')
@@ -4017,7 +4017,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}dance
 ┃╠${prefix}cringe
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'textpromenu':
 var unicorn = await getBuffer(picak+'Text Pro Menu')
@@ -4056,7 +4056,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}blackpink [txt]
 ┃╠ ${prefix}gluetext [txt]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'convertmenu':
 var unicorn = await getBuffer(picak+'Converter Menu')
@@ -4075,7 +4075,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}ebinary [reply txt]
 ┃╠ ${prefix}dbinary [reply txt]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'databasemenu':
 var unicorn = await getBuffer(picak+'Database Menu')
@@ -4091,7 +4091,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}getmsg
 ┃╠ ${prefix}delmsg
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'databasemenu':
 var unicorn = await getBuffer(picak+'Database Menu')
@@ -4103,7 +4103,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}next
 ┃╠${prefix}leave
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'islamicmenu':
 var unicorn = await getBuffer(picak+'Islamic Menu')
@@ -4112,7 +4112,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╔══✪「 ISLAMIC 」	        
 ┃╠${prefix}juzamma
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'voicechangermenu':
 var unicorn = await getBuffer(picak+'Voice Changer Menu')
@@ -4131,7 +4131,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}slow [reply aud]
 ┃╠${prefix}squirrel [reply aud]
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'horoscopemenu':
 var unicorn = await getBuffer(picak+'Horoscope Menu')
@@ -4169,7 +4169,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
 ┃╚═════════════✪
-┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+┗━━「 𝙲𝙷𝚇𝙼𝙸𝚈𝚇 𝙱𝙾𝚃 𝚅1 」━⭓`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
 case 'thanksto': case 'tqto': case 'tqtt':
 var unicorn = await getBuffer(picak+'Developer')
@@ -4177,7 +4177,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 Thanks to Me ( NexusNw)
 Alien-Alfa (For helping me to deploy qr in replit and answered my every doubts regard this project)
 DGXeon ( 45% Credits goes to him ,in this script)
-And Again Me (King Nexus 🎉) 🐦 Who Helped Assemble This Sexy Script !!!`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `https://youtube.com/channel/MemeAthalOfficial`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+And Again Me (King Nexus 🎉) 🐦 Who Helped Assemble This Sexy Script !!!`,unicorn, [{"urlButton": {"displayText": "Meme Athal Yt 😂","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
