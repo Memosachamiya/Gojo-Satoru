@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['wa.me/94760168732']
+global.premium = ['0710168732']
+global.ownernomer = '0710168732'
 global.ownername = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊'
 global.botname = '𝙲𝚑𝚡𝚖𝚒𝚢𝚊 𝙱𝙾𝚃'
 global.footer = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊©'
 global.ig = 'https://github.com/Memosachamiya'
 global.region = 'Sri Lanka, Western province'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://github.com/Memosachamiya'
+global.myweb = 'https://youtube.com/channel/MemeAthalOfficial'
 global.packname = 'Chxmiyx Bot'
 global.author = '🫥 Chamiya'
 global.sessionName = 'session'
