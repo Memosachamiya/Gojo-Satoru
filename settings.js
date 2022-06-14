@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Chamidu Wijayarathna']
+global.owner = ['94760168732']
 global.premium = ['0760168732']
 global.ownernomer = '94760168732'
 global.ownername = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊'
