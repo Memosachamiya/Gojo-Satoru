@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['wa.me/94760168732']
-global.premium = ['0710168732']
-global.ownernomer = '94710168732'
+global.owner = ['Chamidu Wijayarathna']
+global.premium = ['0760168732']
+global.ownernomer = '94760168732'
 global.ownername = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊'
 global.botname = '𝙲𝚑𝚡𝚖𝚒𝚢𝚊 𝙱𝙾𝚃'
 global.footer = '𝙲𝚑𝚊𝚖𝚒𝚍𝚞 𝚆𝚒𝚓𝚊𝚢𝚊𝚛𝚊𝚝𝚑𝚗𝚊©'
