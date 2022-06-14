@@ -2,8 +2,8 @@
     "name": "Memosa Bot MD",
     "description": "Automated Whatsapp Bot 🌺💖",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "memosa", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/Memosachamiya",
+    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "repository": "https://github.com/Memosachamiya/Gojo-satoru",
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
@@ -180,9 +180,4 @@
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-    }
-}
-
-        }
-    }
-}
+  }
